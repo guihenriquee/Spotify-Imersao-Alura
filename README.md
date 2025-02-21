@@ -1,4 +1,4 @@
-# Clone da Página do Spotify - Imersão Front-End (Alura)
+# Clone da Página do Spotify - Imersão Front-End 2° Edição (Alura)
 
 Este projeto foi desenvolvido durante a **Imersão Front-End da Alura**, com o objetivo de criar um clone da página inicial do Spotify utilizando **HTML**, **CSS** e **JavaScript**.
 
